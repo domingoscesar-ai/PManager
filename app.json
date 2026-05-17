@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "PManager",
-    "slug": "PManager",
+    "slug": "portfomanager",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "280d0fb0-8791-4416-8ddd-d648bb8083ce"
+      }
+    },
+    "owner": "lai26"
   }
 }
